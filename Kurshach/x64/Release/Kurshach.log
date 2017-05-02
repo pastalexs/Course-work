@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : Отказано в доступе по пути "c:\users\alexey\documents\visual studio 2015\projects\kurshach\x64\release\kurshach.exe".
+  stdafx.cpp
+  Kurshach.cpp
+Kurshach.cpp(30): warning C4244: =: преобразование "int64" в "unsigned long", возможна потеря данных
+Kurshach.cpp(34): warning C4244: =: преобразование "int64" в "unsigned long", возможна потеря данных
+LINK : fatal error LNK1104: не удается открыть файл "C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Kurshach\x64\Release\Kurshach.exe"

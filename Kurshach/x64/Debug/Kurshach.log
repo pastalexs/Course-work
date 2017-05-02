@@ -1,0 +1,5 @@
+﻿  Kurshach.cpp
+c:\users\alexey\documents\visual studio 2015\projects\kurshach\kurshach\kurshach.cpp(42): warning C4244: =: преобразование "int64" в "unsigned long", возможна потеря данных
+c:\users\alexey\documents\visual studio 2015\projects\kurshach\kurshach\kurshach.cpp(56): warning C4244: =: преобразование "int64" в "unsigned long", возможна потеря данных
+  Kurshach.vcxproj -> C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Kurshach\x64\Debug\Kurshach.exe
+  Kurshach.vcxproj -> C:\Users\Alexey\Documents\Visual Studio 2015\Projects\Kurshach\x64\Debug\Kurshach.pdb (Full PDB)
